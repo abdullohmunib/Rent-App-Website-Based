@@ -1,0 +1,8 @@
+.masthead {
+  height: 70vh;
+  min-height: 300px;
+  background-image: url(https://akm.uii.ac.id/images/stories/gambarku/masjid%201.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
